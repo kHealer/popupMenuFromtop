@@ -1,6 +1,4 @@
 # popupmenu
-![açılır ekran pop up ı örneği](https://user-images.githubusercontent.com/95585412/202905813-7d57a261-c284-4454-96ba-2649aea51482.png)
-![flutter pub get güncellemeler](https://user-images.githubusercontent.com/95585412/202905820-8d72c962-dd75-4d8e-9658-8dce7c322987.png)
 
 A new Flutter project.
 
